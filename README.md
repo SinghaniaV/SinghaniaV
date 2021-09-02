@@ -6,10 +6,10 @@
 How to Reach me:
 
 <a href="https://twitter.com/vishsinghania">
-         <img alt="@vishsinghania" src="https://img.icons8.com/ios-filled/50/000000/twitter.png">
+         <img alt="@vishsinghania" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png">
          
 <a href="https://www.linkedin.com/in/singhania-v/">
-         <img alt="@singhania-v" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png">
+         <img alt="@singhania-v" src="https://img.icons8.com/fluency/48/000000/linkedin.png">
 
 <!---
 SinghaniaV/SinghaniaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
