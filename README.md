@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in Math and Software Engineering 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently Majoring in CS
 
 How to Reach me:
 
