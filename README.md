@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal
-- I’m interested in Math and Software Engineering 
+- I’m interested in Math, Competetive Programming and Computer Science
 - I’m currently Majoring in CS
 
 How to Reach me:
