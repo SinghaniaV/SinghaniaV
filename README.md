@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal
 - I’m interested in Math, Competitive Programming and Computer Science
-- I’m currently Majoring in CS
+- I’m currently Majoring in CS at MUJ
 
 How to Reach me:
 
