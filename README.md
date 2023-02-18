@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">I do Math. And I code. </h3>
-
+<h3 align="center">I do Math. <p>And I code. </p></h3>
 <p align="center">
 <a href="https://kaggle.com/bigvish" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="bigvish"/></a>
 <a href="https://www.codechef.com/users/big_v" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
