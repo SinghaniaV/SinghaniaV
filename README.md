@@ -5,6 +5,7 @@
 <a href="https://www.codechef.com/users/big_v" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/bigv_" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="bigv_"/></a>
 <a href="https://www.leetcode.com/bigv_" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="bigv_"/></a>
+<a href="https://www.topcoder.com/members/BigV_" target="blank"><img align="center" src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)" alt="BigV_"/></a>
 
 <!---
 SinghaniaV/SinghaniaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
