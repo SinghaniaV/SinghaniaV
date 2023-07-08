@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Other times, I'm here.
+  Other times, I'm here
 </p>
 </h3>
 
