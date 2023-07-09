@@ -7,17 +7,17 @@
 <a href="https://www.codechef.com/users/big_v" target="blank">CodeChef</a>, 
 <a href="https://codeforces.com/profile/bigv_" target="blank">Codeforces</a>, 
 <a href="https://www.topcoder.com/members/BigV_" target="blank">TopCoder</a>, 
-<a href="https://atcoder.jp/users/BigV" target="blank">AtCoder</a>
+<a href="https://atcoder.jp/users/BigV" target="blank">AtCoder</a>.
 </p>
   
 <p align="center">
   Sometimes, I do - 
 <a href="https://kaggle.com/bigvish" target="blank">Kaggle</a>, 
-<a href="https://www.leetcode.com/bigv_" target="blank">Leetcode</a>
+<a href="https://www.leetcode.com/bigv_" target="blank">Leetcode</a>.
 </p>
 
 <p align="center">
-  Other times, I'm here
+  Other times, I'm here.
 </p>
 </h3>
 
