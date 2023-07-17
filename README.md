@@ -3,7 +3,7 @@
 <h3 align="center">
   
 <p align="center">
-  Most of the time, I'm on - 
+  I waste most of my time on - 
 <a href="https://www.codechef.com/users/big_v" target="blank">CodeChef</a>, 
 <a href="https://codeforces.com/profile/bigv_" target="blank">Codeforces</a>, 
 <a href="https://www.topcoder.com/members/BigV_" target="blank">TopCoder</a>, 
