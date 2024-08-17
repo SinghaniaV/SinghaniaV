@@ -1,6 +1,38 @@
-<p align="left">
-<a href="https://singhaniav.tech" target="blank">singhaniav.tech</a>
-</p>
+<div align="center">
+<table style="border: none">
+    <tr style="border: none">
+        <td style="border: none"> <b>Programming & Scripting</b> </td>
+        <td align="right">
+            <img src="https://skillicons.dev/icons?i=c,cpp,python,go,bash,java,r">
+        </td>
+    </tr>
+    <tr>
+        <td> <b>Backend</b> </td>
+        <td align="right">
+            <img src="https://skillicons.dev/icons?i=django,flask,fastapi,kafka,rabbitmq">
+        </td>
+    </tr>
+    <tr>
+        <td> <b>Databases</b> </td>
+        <td align="right">
+            <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch">
+        </td>
+    </tr>
+    <tr>
+        <td> <b>Tools</b> </td>
+        <td align="right">
+            <img src="https://skillicons.dev/icons?i=arch,docker,git,postman,githubactions,gcp">
+        </td>
+    </tr>
+    <tr>
+        <td> <b>Machine Learning</b> </td>
+        <td align="right">
+            <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow">
+        </td>
+    </tr>
+</table>
+</div>
+
 <!---
 SinghaniaV/SinghaniaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
