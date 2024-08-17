@@ -3,7 +3,7 @@
     <tr style="border: none">
         <td style="border: none"> <b>Programming & Scripting</b> </td>
         <td align="right">
-            <img src="https://skillicons.dev/icons?i=c,cpp,python,go,bash,java,r">
+            <img src="https://skillicons.dev/icons?i=cs,lua,c,cpp,python,go,bash,java,r">
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
     <tr>
         <td> <b>Databases</b> </td>
         <td align="right">
-            <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch">
+            <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,sqlite">
         </td>
     </tr>
     <tr>
