@@ -7,9 +7,9 @@
         </td>
     </tr>
     <tr>
-        <td> <b>Backend</b> </td>
+        <td> <b>Frameworks & Microservices</b> </td>
         <td align="right">
-            <img src="https://skillicons.dev/icons?i=django,flask,fastapi,kafka,rabbitmq">
+            <img src="https://skillicons.dev/icons?i=django,flask,fastapi,kafka,rabbitmq,pytorch,sklearn,tensorflow">
         </td>
     </tr>
     <tr>
@@ -22,12 +22,6 @@
         <td> <b>Tools</b> </td>
         <td align="right">
             <img src="https://skillicons.dev/icons?i=arch,docker,git,postman,githubactions,gcp">
-        </td>
-    </tr>
-    <tr>
-        <td> <b>Machine Learning</b> </td>
-        <td align="right">
-            <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow">
         </td>
     </tr>
 </table>
