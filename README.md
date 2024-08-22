@@ -9,13 +9,19 @@
     <tr>
         <td> <b>Frameworks & Microservices</b> </td>
         <td align="right">
-            <img src="https://skillicons.dev/icons?i=django,flask,fastapi,kafka,rabbitmq,pytorch,sklearn,tensorflow">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=django,flask,fastapi,kafka,rabbitmq&titles=true">
         </td>
     </tr>
     <tr>
         <td> <b>Databases</b> </td>
         <td align="right">
             <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,sqlite">
+        </td>
+    </tr>
+    <tr>
+        <td> <b>DS & ML</b> </td>
+        <td align="right">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,scipy,numpy,pytorch,sklearn,tensorflow">
         </td>
     </tr>
     <tr>
